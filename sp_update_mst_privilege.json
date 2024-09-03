@@ -1,0 +1,8 @@
+[
+  {
+    "_privilege_Id": "1,2,3,4",
+    "_privilege_name": "OBF Initiator,OBF Reviewer,PPL Initiator,PPL Reviewer",
+    "_active": "1,1,1,1",
+    "_user_id": "3,3,3,3"
+  }
+]
