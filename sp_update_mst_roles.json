@@ -1,0 +1,10 @@
+[
+    {
+        "_id":"1,2,3,4,5",
+        "_role_code":"SU,VO,SP,BSH,PH",
+        "_role_name":"Super user,View only,Salesperson,BSH,PH",
+        "_equivalent_cassh_role_name":"Super user,View only,Salesperson,Business Sales Head,Pricing Head",
+        "_active":"1,1,1,1,1",
+        "_user_id":"1,1,1,1,1"
+    }
+]

@@ -1,0 +1,9 @@
+[
+    {
+        "_DOA_Matrix_Id":"1,2,3,4,5",
+        "_Message":"Total Margin is less than,capex (in lakhs )  is more than,Payment Terms in Days is more than,Project Type is,No LOI PO Uploaded",
+        "_Prefix":"0,  (lakhs) , (days) ,NULL,NULL",
+        "_MessageFor":"Margin,Capex,CreditPeriod,ProjectType,CEOApproval",
+        "_user_id":"70,NULL,NULL,NULL,NULL"
+    }
+]

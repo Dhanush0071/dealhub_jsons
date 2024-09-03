@@ -1,0 +1,16 @@
+[
+    {
+        "_id":"1,2,3,4,5",
+        "_user_code": "23145258,23061689,25006922,25008105,23221696",
+        "_first_name":"Nikesh,Seema,Austin,Vivek,Nayan",
+        "_last_name":"Bhabal,Bhaskar,Froes,Wagh,Nalge",
+        "_password":"73716a546e26009c9b92d86b1e5c08d3,d958b8d2bc9b4a57b79722f34fe53880,12cf467b6a8e169c910d227463450e80,bb4f1623760b36a79d7843c23a539ea3,c3cfd5d4300ff0c000aa3eb47f14f05f",
+        "_mobile_no":"1234567890,9819092494,00,00,00",
+        "_email_id":"23145258@mahindra.com,23061689@mahindra.com,25006922@mahindra.com,25008105@mahindra.com,23221696@mahindra.com",
+        "_role_id ":"1,2,35,35,35",
+        "_is_cassh_user":"0,0,0,0,0",
+        "_active":"0,0,0,0,0",
+        "_islocked":"1,1,1,1,1",
+        "_user_id":"1,1,1,1,1"
+    }
+]
